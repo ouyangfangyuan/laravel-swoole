@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -64,4 +64,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # laravel-swoole
 在swoole上无感运行laravel项目
->>>>>>> 5a5f5cb7b1edb467ead8d0c87abde987df4f2542
+
